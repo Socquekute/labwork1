@@ -1,0 +1,22 @@
+header{
+  background-color: #dadada;
+}
+header img{
+     margin-left:30px ;
+}
+header svg{
+     margin-left:30px ;
+}
+header .nav-link{
+	margin-left: 60px;
+}
+header .d-flex input{
+    width: 300px ;
+    height: 25px;
+}
+header a{
+	margin-right: 30px;
+}
+main{
+    margin-top: 30px;
+}

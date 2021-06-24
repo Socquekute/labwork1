@@ -1,0 +1,18 @@
+header{
+	background-color: #dadada ;
+}
+header .d-flex{
+    width: 350px ;
+    height: 25px;
+}
+header svg{
+	margin-left: 50px;
+}
+main{
+	text-align: center;
+	margin-top: 100px;
+}
+main .form-control{
+	width: 450px;
+	margin: 0 auto;
+}
